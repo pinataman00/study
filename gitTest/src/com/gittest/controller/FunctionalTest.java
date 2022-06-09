@@ -7,4 +7,7 @@ public class FunctionalTest {
 			//그저 modifed상태로서, unstaged changes임을 확인할 수 있다 -
 		}
 	
+		public String getGoodee() {
+			return "goodee";
+		}
 }
